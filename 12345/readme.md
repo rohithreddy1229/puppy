@@ -5,7 +5,7 @@
 This Hospital Management System is designed to manage patients and doctors information using Python and MySQL.
 
 ## Table of Contents
-- [Setup](#setup)
+- #setup
 - [Database Setup](#database-setup)
 - [Running the Application](#running-the-application)
 - [Using the Application](#using-the-application)
